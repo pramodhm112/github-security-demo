@@ -5,7 +5,7 @@ public class StringCompare {
 	static String isStringEqual (String a, String b) {
       if (a == b) {
         return "I'm Right";
-		  }
+      }
       else
         return "Oh, No";
 }
